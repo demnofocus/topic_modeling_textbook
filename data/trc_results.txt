@@ -1,0 +1,65 @@
+Cluster 0
+ amnesty
+ mk
+ granted
+ granted amnesty
+ operatives
+ injured
+ killed
+ mk operatives
+ people
+ security
+
+
+Cluster 1
+ supporters
+ ifp
+ burnt
+ anc
+ near
+ conflict
+ ifp supporters
+ house
+ home
+ supporter
+
+
+Cluster 2
+ sap
+ shot
+ members
+ members sap
+ shot dead
+ dead
+ cape
+ injured
+ member
+ transvaal
+
+
+Cluster 3
+ police
+ beaten
+ members
+ detained
+ severely
+ cape
+ tortured
+ severely beaten
+ arrested
+ bophuthatswana
+
+
+Cluster 4
+ supporter shot
+ shot
+ anc supporter shot
+ shot dead
+ dead
+ anc
+ supporter
+ supporter shot dead
+ anc supporter
+ ifp
+
+
